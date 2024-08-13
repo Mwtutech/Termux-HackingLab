@@ -83,9 +83,9 @@ def banner():
                     {white}        @@@@@@@@@@@@@@@@@@@@@@@@@                           
                     {white}      @@@@@@@@@@@@@@@@@@@@@@@@@@@@@                         
                     {white}    @@@@@@@   @@@@@@@@@@@@@@@@@@@@@@@                       
-                       @@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@@& {cyan}| Telegram :: @hacking_network8{white}           
-                       @@@@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@ {green}| Github :: @G_Man_Official{white}   
-                      .@@@@@@@@@@@@@*  &@@@@@@@@@@@@@@@@@@ {red}| Youtube :: @cyberedge8{white}     
+                       @@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@@& {cyan}| Telegram :: @mwtuofficial{white}           
+                       @@@@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@ {green}| Github :: @mwtutech{white}   
+                      .@@@@@@@@@@@@@*  &@@@@@@@@@@@@@@@@@@ {red}| Youtube :: @mwtuofficial{white}     
                        @@@@@@@@@@@&  ,@@@@@@@@@@@@@@@@@@@@ {yellow}| ToolName Termux HackingLab Setup{white}
                        @@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@@& {blue}| Current Version :: 1.1{white}     
                         @@@@@@@   @@@@@@@/        &@@@@@@                      
@@ -120,7 +120,7 @@ def update():
     check_intr()
     git_ver = str(
         requests.get(
-            "https://raw.githubusercontent.com/GManOfficial/Termux_HackingLab_Setup/main/.version"
+            "https://raw.githubusercontent.com/mwtutech/Termux_HackingLab_Setup/main/.version"
         ).text
     ).split()
     if version == git_ver[0]:
