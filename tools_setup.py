@@ -32,8 +32,8 @@ def banner():
   print(f'{red}          / /___/ /_/ / /_/ /   ___/ /  __/ /_/ /_/ / /_/ /                  ')
   print(f'{yellow}         /_____/\__,_/_.___/   /____/\___/\__/\__,_/ .___/                   ')
   print(f'{blue}                                                  /_/                        ')
-  print("                       Tool Name: TermuxSetupHackingLab")
-  print("                       Made With L3v By @G_Man_Official")
+  print("                       Tool Name: HACKINGLAB")
+  print("                       Made With L3v By @MWTU-OFFICIAL")
   print(f'{yellow}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 
 
