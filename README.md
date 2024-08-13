@@ -1,21 +1,3 @@
-<h1 align="center">Termux Hacking Lab Setup</h1>
-<p align="center">
-  श्री गणेशाय नमः
-</p>
-<p align="center">
-    <img alt="Version" src="https://img.shields.io/badge/Version-1.1-blue?style=for-the-badge&color=blue">
-    <img alt="Stars" src="https://img.shields.io/github/stars/GManOfficial/Termux_HackingLab_Setup?style=for-the-badge&color=magenta">
-    <img alt="Forks" src="https://img.shields.io/github/forks/GManOfficial/Termux_HackingLab_Setup?color=cyan&style=for-the-badge&color=purple">
-    <img alt="License" src="https://img.shields.io/github/license/GManOfficial/Termux_HackingLab_Setup?style=for-the-badge&color=blue">
-    <br>
-    <a href="https://telegram.me/G_Man_Official"><img title="Developer" src="https://img.shields.io/badge/Developer-GManOfficial-red?style=flat-square"></a>
-    <img alt="Maintained" src="https://img.shields.io/badge/Maintained-Yes-blue?style=flat-square">
-    <img alt="Written In" src="https://img.shields.io/badge/Written%20In-python-yellow?style=flat-square">
-</p>
-
-<p align="center">
-    <a href="https://telegram.me/termux_hacking_tools"><img title="Tool-Name" src="https://img.shields.io/badge/Tool_Name-Termux_Hacking_LabSetup-green.svg"></a>
-    <a href="https://telegram.me/hacking_network8"><img title="telegram" src="https://img.shields.io/badge/Telegram-@hacking_network8-green.svg"></a>
 </p>
 
 _Enhance Your Termux Setup for Hacking on Android with an All-in-One Solution that Empowers You to Perform a Wide Range of Tasks. This Comprehensive Tool is Designed to Streamline Your Hacking Experience, Providing a Versatile Environment to Execute Various Operations. Additionally, it Offers Invaluable Support for Addressing Basic Errors and Issues Specifically Related to Termux, Ensuring a Smooth and Seamless Hacking Journey on your Android Device._
@@ -55,7 +37,7 @@ _Enhance Your Termux Setup for Hacking on Android with an All-in-One Solution th
 
  pkg install python3 -y
 
- git clone https://github.com/GManOfficial/Termux_HackingLab_Setup.git
+ git clone https://github.com/mwtutech/Termux_HackingLab_Setup.git
 
  cd Termux_HackingLab_Setup
 
@@ -66,33 +48,3 @@ _Enhance Your Termux Setup for Hacking on Android with an All-in-One Solution th
 
 **After Running the script, the script will perform all the tasks automatically and will setup everything including termux configuration, python modules, termux packages, tools.**
 
-## Watch Video :-:
-
-## ScreenShots
-![Screenshot_2023-07-10-19-42-11-12_84d3000e3f4017145260f7618db1d683](https://github.com/GManOfficial/Termux_HackingLab_Setup/assets/128127654/c12672df-62ca-491e-8918-415aba0dbefc)
-![Screenshot_2023-07-10-19-40-32-61_84d3000e3f4017145260f7618db1d683](https://github.com/GManOfficial/Termux_HackingLab_Setup/assets/128127654/590f0ae2-6697-4b03-971b-4c9da2a8c9c5)
-![Screenshot_2023-07-10-19-40-25-62_84d3000e3f4017145260f7618db1d683](https://github.com/GManOfficial/Termux_HackingLab_Setup/assets/128127654/d4b43ce2-511a-4678-9581-ae0f2e41cc7a)
-![Screenshot_2023-07-10-19-39-31-44_84d3000e3f4017145260f7618db1d683](https://github.com/GManOfficial/Termux_HackingLab_Setup/assets/128127654/3d1f54d7-85ca-42df-9e3e-7f8e72c2eeac)
-
-## ©️ Copyright Message
-Copyright © [2023-24] [CyberEdge]
-
-All rights reserved. This Python project, along with its code, documentation, and any associated files, is the intellectual property of cyberedge. You may not reproduce, distribute, or modify the contents of this repository without explicit permission from the owner.
-
-Unauthorized use of this project, in part or in whole, may violate applicable copyright laws.
-
-For inquiries or permission requests, please contact gmanofficial.contact@gmail.com.
-
-## Follow Us :-
-<a href="https://github.com/GManOfficial"><img title="Github" src="https://img.shields.io/badge/GitHub-GManOfficial-brightgreen?style=for-the-badge&logo=github"></a>
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/gman_official.01/)
-[![Instagram](https://img.shields.io/badge/WEBSITE-VISIT-yellow?style=for-the-badge&logo=blogger)](https://www.gmanofficial.courses)
-[![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-cyan?style=for-the-badge&logo=telegram)](https://telegram.dog/hacking_network8)
-<p align=center>
-<a href="https://www.youtube.com/@gnTecHacker"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Problem Solutioner-red?style=for-the-badge&logo=Youtube"></a>
-</p>
-
-## Special Thanks To [Credits] :
-<a href="https://github.com/Nishant2009"><img title="Github" src="https://img.shields.io/badge/GitHub-Nishant2009-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://telegram.dog/Gullu_Bosz"><img title="Telegram" src="https://img.shields.io/badge/Telegram-Gullu_Bosz-cyan?style=for-the-badge&logo=telegram"></a>
-<a href="https://github.com/mishakorzik/AllHackingTools"><img title="Github" src="https://img.shields.io/badge/GitHub-mishakorzik-brightgreen?style=for-the-badge&logo=github"></a>
